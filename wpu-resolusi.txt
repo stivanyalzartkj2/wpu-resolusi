@@ -4,5 +4,5 @@ WPU RESOLUSI
 - mengupload project ke GitHub secara rutin
 - aktif berdiskusi di forum atau komunitas programmer
 - membuat minimal 3 project website sederhana
-- membuat merch shop
 - kolaborasi dengan lebih banyak expert
+- membuat vlog
