@@ -5,8 +5,10 @@ RENCANA KONTEN WPU
   *Framework Javascript
     ^Veu
     ^React
+    ^Angular
 -Struktur Data Dasar
 -PHP Framework
  ^Laravel
 -Interview
 -Vlogs
+-Python
